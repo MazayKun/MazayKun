@@ -5,7 +5,7 @@ ____
 ____
 
 ### Some nice little diagrams
-____
+___
 ![Profile views](https://gpvc.arturio.dev/MazayKun)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MazayKun&theme=tokyonight&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
