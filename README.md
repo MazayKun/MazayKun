@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-kir99916@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kir99916@gmail.com)](mailto:kir99916@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-кирилл-михеев-714974196?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/кирилл-михеев-714974196/)](https://www.linkedin.com/in/кирилл-михеев-714974196/)
+
 ![Profile views](https://gpvc.arturio.dev/MazayKun)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MazayKun&theme=tokyonight&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
