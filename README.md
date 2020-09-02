@@ -2,8 +2,8 @@
 ### My name is Kirill
 [![Gmail Badge](https://img.shields.io/badge/-kir99916@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kir99916@gmail.com)](mailto:kir99916@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/mazaykun-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazaykun/)](https://www.linkedin.com/in/mazaykun/)
 ____
-
-## Some nice little diagrams
+I am a final year student at the Moscow Institute of Physics and Technology. At the moment I am starting to master the sphere of designing complex business systems in Java.
+## Some nice little diagrams:chart_with_upwards_trend:
 ![Profile views](https://gpvc.arturio.dev/MazayKun)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MazayKun&theme=tokyonight&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
