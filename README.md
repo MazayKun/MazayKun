@@ -1,7 +1,10 @@
-### Hi there 👋
-
+## Hello there :octocat:
+### My name is Kirill
+____
 [![Gmail Badge](https://img.shields.io/badge/-kir99916@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kir99916@gmail.com)](mailto:kir99916@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/mazaykun-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazaykun/)](https://www.linkedin.com/in/mazaykun/)
+____
 
+____
 ![Profile views](https://gpvc.arturio.dev/MazayKun)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MazayKun&theme=tokyonight&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
